@@ -1,0 +1,14 @@
+.selected-container{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.headline{
+    text-align: center;
+    border-bottom: 1px solid lightgrey;
+    background-color: gold;
+    padding: 10px;
+    margin: 10px 0px;
+}
+.body{
+    text-align: left;
+}

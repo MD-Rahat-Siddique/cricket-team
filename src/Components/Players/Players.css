@@ -1,0 +1,22 @@
+.profile-container{
+    display: flex;
+    border: 2px solid grey;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 60%;
+    padding: 10px;
+}
+.profile-img img{
+    height: 200px;
+}
+.profile-body{
+    margin-left: 10px;
+}
+.profile-body button{
+    width: 150px;
+    background-color: goldenrod;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+    padding: 5px;
+    cursor: pointer;
+}
